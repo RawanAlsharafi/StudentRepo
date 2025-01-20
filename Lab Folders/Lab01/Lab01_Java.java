@@ -5,7 +5,7 @@ void testMethod1()
   //First command x = y + z
   //Second commnad print(x)
 
-//Edit made by student Rawan 
+//Edit made by RawanAl-Sharafi_230215913
   //Last line print('Good bye')
 }
 
